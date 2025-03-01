@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 
+//Se desea guardar los sueldos de 5 operarios.
+
 int main()
 {
     int f;
